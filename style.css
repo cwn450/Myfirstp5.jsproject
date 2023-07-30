@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(255, 248, 228);
+  }
+#heading
+{
+  font-size: 28px !important;
+  color: rgb(49, 118, 247);
+ background-color: aliceblue;
+}
+canvas {
+    border:1px solid black;
+}
+
+#Take_Snap{
+  font-size: 18px !important;
+  color: rgb(248, 47, 188);
+ background-color: rgb(250, 229, 240);
+ border-color: rgb(245, 18, 150);
+}
